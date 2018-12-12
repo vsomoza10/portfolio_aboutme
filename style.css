@@ -1,0 +1,499 @@
+
+.absolute{
+  position: absolute;
+  top:2px;
+}
+.nav_bar{
+background: rgba(255, 255, 255, 0.87);
+box-shadow: 0 2px 6px 0 rgba(0,0,0,0.09);
+height: 32px;
+width: 100%;
+font-family: montserrat,sans-serif;
+color: black;
+text-decoration: none;
+font-size: 18px;
+position: fixed;
+}
+.home{
+  position: absolute;
+  top: -12px;
+  right: 18%;
+  text-decoration: none;
+  color: black
+
+}
+.contact_bar{
+  position: absolute;
+  top: -12px;
+  right: 10%;
+  text-decoration: none;
+  color: black
+
+}
+.more_about1{
+  font-family: montserrat-italic,italic,sans-serif;
+  font-weight: 00;
+  font-size: 14px;
+}
+.more_button{
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  left: 315;
+  top: 250;
+}
+.text_more{
+position: absolute;
+top: 240;
+left: 335;
+text-align: right;
+color: black;
+font-size: 12px;
+
+}
+.more_button2{
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  left: 815;
+  top: 220;
+}
+.text_more2{
+  position: absolute;
+  top: 210;
+  left: 835;
+  text-align: right;
+  color: black;
+  font-size: 12px
+
+}
+.more_button3{
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  left: 695;
+  top: 510;
+}
+.text_more3{
+  position: absolute;
+  top: 500;
+  left: 715;
+  text-align: right;
+  color: black;
+  font-size: 12px;
+}
+body{background-color: #FAF0ED;
+}
+
+.card{
+  position: relative;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  background-color: white;
+  margin-top: 80px;
+  height: 555px;
+  width: 1000px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1), 0 3px 20px 0 rgba(0, 0, 0, 0.15);
+}
+.card_box1{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.image1{
+    opacity: 1;
+    transition:0.8s ease;
+}
+.image2{
+  position: absolute;
+      margin-left: 400px;
+      height: 400px;
+      width: 200px;
+      margin-top: -401;
+      opacity: 1;
+      transition:0.8s ease;
+}
+.image3{
+  position: absolute;
+  margin-left: 625px;
+  margin-right: 155px;
+  top: -400;
+  height: 400px;
+  width: 200px;
+  transition:0.8s ease;
+}
+.heading1{
+text-align: center;
+padding-top: 20px;
+  font-family: montserrat,sans-serif;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+.heading2{
+  font-family: cardo,serif;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 22;
+  margin-bottom: 30px;
+  font-weight: normal;
+}
+.p1{position: absolute;
+    right:824px;
+    left: 97px;
+    top:155px;
+    font-family: cardo,serif;
+    font-size: 14;
+    text-align: left;
+    width: 224px;
+    margin-left: 600px;
+}
+.heading3{
+  font-family: cardo,serif;
+  text-align:left;
+  padding-left: 20px;
+  padding-top: 20px;
+  font-size: 22;
+  margin-bottom: 30px;
+  font-weight: normal;
+}
+.image_card{
+position: absolute;
+margin-left: 90px;
+margin-right: 20px;
+margin-top: 25px;
+height: 29%;
+}
+.image_review{
+position: absolute;
+margin-left: 45px;
+margin-right: 20px;
+margin-top: 195px;
+height: 33%;
+}
+
+.text_card{
+  position: absolute;
+  font-family: cardo,serif;
+  height: 90;
+  margin-left: 50;
+  margin-top: 391;
+}
+.card_half{
+  position: absolute;
+      display: block;
+      margin-left: 500;
+      margin-right: auto;
+      width: 50%;
+      background-color: #3B9169;
+      margin-top: -75;
+      height: 555px;
+      width: 500px;
+
+}
+.image_filtro{
+  position: absolute;
+  margin-left: 300px;
+  top: 50;
+  height: 80%;
+}
+.abc_text{
+  position: absolute;
+    font-size: 56px;
+    font-weight: 600;
+    font-family: montserrat,sans-serif;
+    margin-left: 150px;
+    margin-top: 30px;
+    color: white;
+    text-align: right;
+}
+
+}
+.video_abc{
+  position: relative;
+
+height: 400px;
+width: 300px;
+margin-left: 55px;
+margin-top: 80px;
+
+}
+.v1{
+position: absolute;
+margin-left: 100;
+margin-top: 290px;
+height: 45%;
+}
+.card_mobile{
+  position: absolute;
+display: block;
+margin-left: 600;
+margin-right: 0;
+width: 50%;
+margin-top: 11;
+height: 555px;
+width: 500px;
+}
+.mobile_app_text{
+  position: absolute;
+  margin-left: 525px;
+}
+.text_sta1{
+  font-family: cardo,serif;
+    font-size: 14px;
+    width: 140px;
+    position: absolute;
+    left: -130px;
+    top: 310px;
+    letter-spacing: -0.56px;
+    line-height: normal;
+}
+.text_sta2{
+  font-family: cardo,serif;
+  font-size: 14px;
+  width: 180px;
+  position: absolute;
+  left: 800px;
+  top: 50;
+  letter-spacing: -0.56px;
+  line-height: normal;
+}
+
+.v2{
+  position: absolute;
+    margin-top: -20;
+    margin-left: 100;
+    height: 75%;
+    width: 32%;
+}
+.mockup1{
+  position: absolute;
+height: 426;
+width: 22%;
+margin-left: 592;
+margin-top: 54;
+}
+.vstamint{
+  position: absolute;
+  margin-top: 126;
+  margin-left: 694;
+  width: 130;
+  height: 230;
+}
+.v3{
+  background-image: url(images/photo-1505388706083-8d50abb907f2 (1).jpeg);
+  position: absolute;
+  margin-left: 105px;
+  margin-top: 0px;
+}
+.pna{
+  position: absolute;display: block;
+
+}
+.PNA_img{
+  position: absolute;
+  margin-top: auto;
+  margin-left: 40;
+  width: 426;
+
+}
+.title_PNA{
+  position: absolute;
+    font-size: 56px;
+    font-weight: 600;
+    font-family: montserrat,sans-serif;
+    margin-left: 540px;
+    margin-top: 30px;
+    color: black;
+    text-align: right;
+}
+.text_PNA{
+  text-align: left;
+    width: 270px;
+    font-family: cardo,serif;
+    font-size: 14;
+    font-weight: normal;
+    position: absolute;
+    left: 600px;
+    top: 350px;
+
+}
+
+.image_index1{
+  position: absolute;
+  height: 430;
+  left: 80;
+}
+.image_index2{
+  position: absolute;
+  height: 430;
+  left: 410;
+}
+.image_index3{
+  position: absolute;
+height: 430;
+left: 615;
+}
+.pag00{
+position: absolute;
+left: 945px;
+top: 250;
+font-family: montserrat,sans-serif;
+font-weight: 600;
+color: #C2C2C2;
+font-size: 28;
+}
+.pag01{
+position: absolute;
+left: 445px;
+top: 250;
+font-family: montserrat,sans-serif;
+font-weight: 600;
+color: #69AB8C;
+font-size: 28;
+}
+
+}
+.link{
+  text-decoration: none;
+  color: black;
+  z-index: 1;
+}
+a:hover {
+  text-decoration: underline;
+}
+body footer{
+  position: relative;
+  bottom: 0px;
+  height: 0px;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container_no{
+  position: relative;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  background-color: transparent;
+  margin-top: 80px;
+  height: 30px;
+  width: 1000px;
+}
+
+}
+.logo{
+  font-family: montserrat, sans-serif;
+font-size: 15px;
+color: transparent;
+font-weight: 400;
+margin-bottom: 20px 0 40px;
+}
+.f_text{
+  position: absolute;
+font-family: montserrat,sans-serif;
+font-size: 12px;
+
+right: 130;
+}
+.line_{
+  width: 90%;
+  bottom: 20px
+}
+.no_content{
+  height: 20px;
+  width: 20px;
+  margin-bottom: 30px;
+  position: absolute;
+}
+.linkedIn_button{
+position: absolute;
+right: 170px;
+bottom:20px;
+text-align: right;
+  height: 32px;
+}
+.contact_links{
+  width: 100%
+}
+.gmail_button{
+  position: absolute;
+  right: 120px;
+  bottom: 20px;
+  text-align: right;
+    height: 32px;
+}
+.medium_button{
+position: absolute;
+right: 70px;
+bottom:20px;
+text-align: right;
+  height: 32px;
+}
+._1{
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+}
+.position{
+  width: 100%;
+  height:4px;
+}
+.contacto_gmail{
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+.logo_gmail{
+    height: 32px;
+}
+.miemail{
+  font-family: cardo,serif;
+    font-size: 20;
+    text-decoration: none;
+    position: absolute;
+    left: 40px;
+    top: -15;
+    color: black;
+}
+.contacto_linkedin{
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+.logo_lkin{
+    height: 32px;
+}
+.mimed{
+  font-family: cardo,serif;
+    font-size: 20;
+    text-decoration: none;
+    position: absolute;
+    left: 40px;
+    top: -15;
+    color: black;
+}
+.contacto_medium{
+  position: absolute;
+  
+  top: 50px;
+}
+.logo_med{
+    height: 32px;
+}
+.milinkedin{
+  font-family: cardo,serif;
+    font-size: 20;
+    text-decoration: none;
+    position: absolute;
+    left: 40px;
+    top: -15;
+    color: black;
+}
